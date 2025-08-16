@@ -1,0 +1,25 @@
+{
+  "name": "advancedtsday4",
+  "version": "1.0.0",
+  "description": "Ejercicio: Extiende este sistema para incluir variance-aware event processing donde different event types pueden ser processed por the same generic event processor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josefventura/advancedTsDay4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josefventura/advancedTsDay4/issues"
+  },
+  "homepage": "https://github.com/josefventura/advancedTsDay4#readme",
+  "dependencies": {
+    "@types/node": "^24.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
